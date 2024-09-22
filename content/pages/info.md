@@ -216,7 +216,7 @@ sections:
       - type: Label
         label: 'WEB 1, 2, 3'
       - type: Label
-        label: React
+        label: VS C
       - type: Label
         label: Microsoft Office
       - type: Label
