@@ -146,7 +146,7 @@ sections:
       - type: FeaturedItem
         actions:
           - type: Link
-            label: LinkedIn
+            label: GITLAB
             url: 'https://www.linkedin.com/'
         styles:
           self:
