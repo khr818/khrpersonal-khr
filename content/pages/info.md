@@ -147,7 +147,7 @@ sections:
         actions:
           - type: Link
             label: GITLAB
-            url: 'https://www.linkedin.com/'
+            url: 'https://gitlab.com/khr818'
         styles:
           self:
             textAlign: left
