@@ -228,7 +228,7 @@ sections:
       - type: Label
         label: Netlify Visual Editor
       - type: Label
-        label: Swift
+        label: Codepen
   - type: DividerSection
     styles:
       self:
