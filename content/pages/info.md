@@ -67,7 +67,7 @@ sections:
         borderStyle: solid
   - type: MediaGallerySection
     colors: colors-f
-    subtitle: CLUBS I AM IN
+    subtitle: 'CLUBS I AM IN:'
     images:
       - type: ImageBlock
         url: /images/Screenshot 2024-09-22 175922.png
