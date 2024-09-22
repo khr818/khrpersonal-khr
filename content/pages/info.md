@@ -139,7 +139,7 @@ sections:
         actions:
           - type: Link
             label: whatsapp
-            url: 'https://twitter.com/'
+            url: 'https://wa.me/+918903832784'
         styles:
           self:
             textAlign: left
