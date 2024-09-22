@@ -10,7 +10,7 @@ description: >-
   most of the time.
 media:
   type: ImageBlock
-  url: /images/bg3.jpg
+  url: /images/Screenshot 2024-09-08 194231.png
   altText: Project image
 ---
 # THINGS NEED FOR OAR(OBSTACLE AVOIDING ROBOT)
