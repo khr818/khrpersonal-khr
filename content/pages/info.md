@@ -70,7 +70,7 @@ sections:
     subtitle: 'I worked with these folks:'
     images:
       - type: ImageBlock
-        url: /images/Screenshot 2024-09-22 180136.png
+        url: /images/Screenshot 2024-09-22 180316.png
         altText: Logo one
         caption: Logo one
       - type: ImageBlock
