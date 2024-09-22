@@ -6,7 +6,7 @@ date: '2024-09-22'
 client: K HARSHAN RAGHAV
 description: ''
 ---
-THE ULTRASONIC CODING
+THE ULTRASONIC CODING save it as "ULTRASONIC"
 
 ```
 import machine
