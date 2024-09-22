@@ -226,7 +226,7 @@ sections:
       - type: Label
         label: Micropython
       - type: Label
-        label: C++
+        label: Netlify Visual Editor
       - type: Label
         label: Swift
   - type: DividerSection
