@@ -138,7 +138,7 @@ sections:
       - type: FeaturedItem
         actions:
           - type: Link
-            label: Twitter
+            label: whatsapp
             url: 'https://twitter.com/'
         styles:
           self:
