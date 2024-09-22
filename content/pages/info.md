@@ -13,14 +13,21 @@ sections:
   - elementId: ''
     colors: colors-f
     backgroundSize: full
-    text: >-
-      ## Hey I’m a developer. I’ve been born and raised in the world, and that’s
-      also where I’m based. I’m currently a free agent, ex-this, ex-that,
-      ex-super big name. When I’m not coding, writing or creating, I eat
-      cereals. I have a dog, check her out [@mygod](https://www.stackbit.com/).
+    text: |+
+      # I AM K HARSHAN RAGHAV STUDYING S7 C IN SHAANTHI SCHOOLS JNR POLLACHI
+
+      MY PHONE NUMBER IS - +91 7358102784,+91 8903832784
+
+      I AM VERY INTRESTED IN CODING ,WEB DEVELOPING AND ALL
+
+
+
+      [@KHR](https://khrpersonal.netlify.app/).
+      -----------------------------------------
+
     media:
       type: ImageBlock
-      url: /images/about.jpg
+      url: /images/02 3.jpg
       altText: Hero image
     styles:
       self:
@@ -60,26 +67,26 @@ sections:
         borderStyle: solid
   - type: MediaGallerySection
     colors: colors-f
-    subtitle: 'I worked with these folks:'
+    subtitle: 'CLUBS I AM IN:'
     images:
       - type: ImageBlock
-        url: /images/logo1.svg
+        url: /images/Screenshot 2024-09-22 175922.png
         altText: Logo one
         caption: Logo one
       - type: ImageBlock
-        url: /images/logo2.svg
+        url: /images/Screenshot 2024-09-22 180136.png
         altText: Logo two
         caption: Logo two
       - type: ImageBlock
-        url: /images/logo3.svg
+        url: /images/Absolute_Infinity.webp
         altText: Logo three
         caption: Logo three
       - type: ImageBlock
-        url: /images/logo4.svg
+        url: /images/Screenshot 2024-09-22 180316.png
         altText: Logo four
         caption: Logo four
       - type: ImageBlock
-        url: /images/logo5.svg
+        url: /images/Screenshot 2024-09-22 180429.png
         altText: Logo five
         caption: Logo five
     spacing: 3
@@ -124,23 +131,23 @@ sections:
         actions:
           - type: Link
             label: GitHub
-            url: 'https://github.com/'
+            url: 'https://github.com/khr818'
         styles:
           self:
             textAlign: left
       - type: FeaturedItem
         actions:
           - type: Link
-            label: Twitter
-            url: 'https://twitter.com/'
+            label: whatsapp
+            url: 'https://wa.me/+918903832784'
         styles:
           self:
             textAlign: left
       - type: FeaturedItem
         actions:
           - type: Link
-            label: LinkedIn
-            url: 'https://www.linkedin.com/'
+            label: GITLAB
+            url: 'https://gitlab.com/khr818'
         styles:
           self:
             textAlign: left
@@ -148,7 +155,7 @@ sections:
         actions:
           - type: Link
             label: CodePen
-            url: 'https://codepen.io/'
+            url: 'https://codepen.io/khr818'
         styles:
           self:
             textAlign: left
@@ -156,7 +163,7 @@ sections:
         actions:
           - type: Link
             label: Discord
-            url: 'https://discord.com/'
+            url: 'https://discord.com/channels/@me'
         styles:
           self:
             textAlign: left
@@ -207,9 +214,9 @@ sections:
     subtitle: 'Skills:'
     items:
       - type: Label
-        label: 'WEB 1, 2, 3'
+        label: Python
       - type: Label
-        label: React
+        label: VS Code
       - type: Label
         label: Microsoft Office
       - type: Label
@@ -217,11 +224,11 @@ sections:
       - type: Label
         label: Netlify
       - type: Label
-        label: Pancakes
+        label: Micropython
       - type: Label
-        label: C++
+        label: Netlify Visual Editor
       - type: Label
-        label: Swift
+        label: Codepen
   - type: DividerSection
     styles:
       self:
@@ -239,7 +246,7 @@ sections:
     subtitle: 'Contact:'
     colors: colors-f
     text: |
-      [thisismyemail.@myemail.me](mailto:thisismyemail.@myemail.me)
+      [Contact Me](mailto:kharshanraghav@hotmail.com)
   - type: DividerSection
     styles:
       self:
@@ -247,99 +254,6 @@ sections:
         padding:
           - pt-8
           - pb-8
-          - pl-4
-          - pr-4
-        justifyContent: center
-        borderWidth: 1
-        borderStyle: solid
-  - type: FeaturedItemsSection
-    colors: colors-f
-    items:
-      - type: FeaturedItem
-        subtitle: 'Experience:'
-        text: |-
-          **Current**
-
-          * freelance @freelance.me
-
-          **2018-2021**
-
-          * fullstack at this startup
-
-          **2015**
-
-          * senior front-end at this place
-
-          **2013**
-
-          * intern developer at a big company
-
-          **2011**
-
-          * flipping burgers
-        styles:
-          self:
-            textAlign: left
-            padding:
-              - pt-0
-              - pl-0
-              - pb-0
-              - pr-0
-      - type: FeaturedItem
-        subtitle: 'Education:'
-        text: |-
-          **2015-2018**
-
-          * ba computer sciense at a semi fancy school
-
-          **2014**
-
-          * react certificate somewhere
-
-          **2011**
-
-          * my highschool
-        styles:
-          self:
-            textAlign: left
-            padding:
-              - pt-0
-              - pl-0
-              - pb-0
-              - pr-0
-    columns: 2
-    spacingX: 60
-    spacingY: 60
-    styles:
-      self:
-        height: auto
-        width: wide
-        margin:
-          - mt-0
-          - mb-0
-          - ml-0
-          - mr-0
-        padding:
-          - pt-8
-          - pb-8
-          - pl-4
-          - pr-4
-        justifyContent: center
-        borderRadius: none
-        borderWidth: 0
-        borderStyle: none
-        borderColor: border-dark
-      title:
-        textAlign: left
-      subtitle:
-        textAlign: left
-  - type: DividerSection
-    styles:
-      self:
-        width: wide
-        padding:
-          - pt-12
-          - pb-12
           - pl-4
           - pr-4
         justifyContent: center
