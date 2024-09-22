@@ -13,11 +13,18 @@ sections:
   - elementId: ''
     colors: colors-f
     backgroundSize: full
-    text: >-
-      ## Hey I’m a developer. I’ve been born and raised in the world, and that’s
-      also where I’m based. I’m currently a free agent, ex-this, ex-that,
-      ex-super big name. When I’m not coding, writing or creating, I eat
-      cereals. I have a dog, check her out [@mygod](https://www.stackbit.com/).
+    text: |+
+      # I AM K HARSHAN RAGHAV STUDYING S7 C IN SHAANTHI SCHOOLS JNR POLLACHI
+
+      MY PHONE NUMBER IS - +91 7358102784,+91 8903832784
+
+      I AM VERY INTRESTED IN CODING ,WEB DEVELOPING AND ALL
+
+
+
+      [@KHR](https://khrpersonal.netlify.app/).
+      -----------------------------------------
+
     media:
       type: ImageBlock
       url: /images/02 3.jpg
