@@ -56,6 +56,7 @@ sections:
     variant: variant-b
     projects:
       - content/pages/projects/project-three.md
+      - content/pages/projects/project-one.md
     styles:
       self:
         height: auto
@@ -88,10 +89,7 @@ sections:
       - type: Link
         label: See all posts
         url: /blog
-    posts:
-      - content/pages/blog/post-six.md
-      - content/pages/blog/post-four.md
-      - content/pages/blog/post-three.md
+    posts: []
     showDate: true
     showExcerpt: true
     showReadMoreLink: true
