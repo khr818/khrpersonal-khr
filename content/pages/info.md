@@ -246,7 +246,7 @@ sections:
     subtitle: 'Contact:'
     colors: colors-f
     text: |
-      [thisismyemail.@myemail.me](mailto:thisismyemail.@myemail.me)
+      [Contact Me](mailto:kharshanraghav@hotmail.com)
   - type: DividerSection
     styles:
       self:
