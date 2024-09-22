@@ -70,7 +70,7 @@ sections:
     subtitle: 'I worked with these folks:'
     images:
       - type: ImageBlock
-        url: /images/Screenshot 2024-09-22 180429.png
+        url: /images/Absolute_Infinity.webp
         altText: Logo one
         caption: Logo one
       - type: ImageBlock
