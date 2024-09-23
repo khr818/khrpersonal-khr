@@ -91,6 +91,7 @@ sections:
         url: /blog
     posts:
       - content/pages/blog/new-page.md
+      - content/pages/blog/catkid-comic-club-review-1-3.md
     showDate: true
     showExcerpt: true
     showReadMoreLink: true
