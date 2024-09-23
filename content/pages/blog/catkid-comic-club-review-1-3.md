@@ -14,7 +14,7 @@ featuredImage:
 media:
   type: ImageBlock
   url: /images/91l0ioQY6oL._SY522_.jpg
-  altText: Post image
+  altText: COMIC CLUB COVER
   caption: Caption of the image
   elementId: ''
 addTitleSuffix: true
