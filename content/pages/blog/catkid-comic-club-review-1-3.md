@@ -1,6 +1,8 @@
 ---
 type: PostLayout
-title: ''
+title: >-
+  A Review of Cat Kid Comic Club: Books 1-3A REVIEW OF CAT KID COMIC CLUB BY DAV
+  PILKEY
 date: '2024-09-22'
 excerpt: >-
   Nunc rutrum felis dui, ut consequat sapien scelerisque vel. Integer
