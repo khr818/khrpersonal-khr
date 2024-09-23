@@ -1,6 +1,6 @@
 ---
 type: PostLayout
-title: This is a blog post title
+title: ''
 date: '2024-09-22'
 excerpt: >-
   Nunc rutrum felis dui, ut consequat sapien scelerisque vel. Integer
