@@ -43,4 +43,4 @@ In this installment, the club faces a new challenge: finding their unique voices
 
 The third book delves into the world of social media and its impact on creativity. The club must navigate the pressures of online popularity while staying true to their artistic vision.
 
-**Overall, the Cat Kid Comic Club series is a delightful read for young readers.** Pilkey's signature style, combined with his ability to tackle important themes in a fun and accessible way, makes these books a must-read. If you're looking for a series that will spark imagination, inspire creativity, and leave you laughing out loud, Cat Kid Comic Club is a perfect choice. TO CHECK OUT PREVIOUS BLOG CLICKL ON "[PREV](khrpersonal.netlify.app/new-page)"
+**Overall, the Cat Kid Comic Club series is a delightful read for young readers.** Pilkey's signature style, combined with his ability to tackle important themes in a fun and accessible way, makes these books a must-read. If you're looking for a series that will spark imagination, inspire creativity, and leave you laughing out loud, Cat Kid Comic Club is a perfect choice. TO CHECK OUT PREVIOUS BLOG CLICKL ON "[PREV](/new-page)"
