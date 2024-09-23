@@ -1,6 +1,6 @@
 ---
 type: ProjectLayout
-title: NEESD FOR OAR
+title: NEEDS FOR OAR
 colors: colors-a
 date: '2022-01-22'
 client: Awesome client

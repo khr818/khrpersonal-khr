@@ -89,7 +89,8 @@ sections:
       - type: Link
         label: See all posts
         url: /blog
-    posts: []
+    posts:
+      - content/pages/blog/new-page.md
     showDate: true
     showExcerpt: true
     showReadMoreLink: true
