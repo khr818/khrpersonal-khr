@@ -2,9 +2,7 @@
 type: PostLayout
 title: A NEW PROJECT HAS BEEN UPLOADED!!
 date: '2024-09-22'
-excerpt: >-
-  Nunc rutrum felis dui, ut consequat sapien scelerisque vel. Integer
-  condimentum dignissim justo vel faucibus.
+excerpt: HEY FRIENDS TODAY I UPLOADED A PROJECT
 featuredImage:
   type: ImageBlock
   url: 'https://assets.stackbit.com/components/images/default/post-4.jpeg'
