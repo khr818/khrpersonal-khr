@@ -5,11 +5,10 @@ sections:
   - type: HeroSection
     title: THIS IS SRIAKILESH M
     subtitle: This is my info — I'm BEST FRIEND OF KHR
-    text: >-
-      Aenean eros ipsum, interdum quis dignissim non, sollicitudin vitae nisl.
-      Aenean vel aliquet elit, at blandit ipsum. Sed eleifend felis sit amet
-      erat molestie, hendrerit malesuada justo ultrices. Nunc volutpat at erat
-      vitae interdum. Ut nec massa eget lorem blandit condimentum et at risus.
+    text: >
+      YES AS YOU KNOW I AM BEST FRIEND OF KHR , ILOVE TO DRAW , I'M INTERESTED
+      IN ALL STUFFS LIKE - DRAWING,FOOTBALL,COMICS ETC., . MY AMBITION IS TO
+      BECOME A DOCTOR(MBBS.,)
     actions: []
     media:
       type: ImageBlock
