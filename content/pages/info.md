@@ -24,7 +24,7 @@ sections:
 
 
       ## [@KHR](https://khrpersonal.netlify.app/). Check my BFF's INFO -
-      [@AKILESH](/sriakilesh)
+      [@AKILESH](/sriakilesh-my-best-friend)
 
     media:
       type: ImageBlock
