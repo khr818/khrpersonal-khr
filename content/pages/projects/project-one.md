@@ -76,5 +76,6 @@ def of(self):
     self.rmr.off()
     self.lmr.off()
     
+POWERED BY 
 ```
 
