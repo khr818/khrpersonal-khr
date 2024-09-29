@@ -4,9 +4,6 @@ title: OAR - ROBOT MOTOR
 colors: colors-a
 date: '2021-10-15'
 client: Awesome client
-description: >-
-  It’s hard to imagine that I’ve that I wrote all this code by myself, probably
-  because I worked with an entire team :) but they definitely followed my lead
-  most of the time.
+description: 'THIS IS THE BASIC CODING OF MY ROBOT, CONTROLLING THE MOTOR OF THE ROBOT'
 ---
 this is code of my motor
