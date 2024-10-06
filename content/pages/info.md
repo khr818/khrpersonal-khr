@@ -14,13 +14,35 @@ sections:
     colors: colors-f
     backgroundSize: full
     text: >+
-      # I AM K HARSHAN RAGHAV STUDYING S7 C IN SHAANTHI SCHOOLS JNR POLLACHI
+      **A Developer with a Robotic Soul**
 
 
-      MY PHONE NUMBER IS - +91 7358102784,+91 8903832784
+      In the world of endless code and circuits, there's a unique spark—me. I’m
+      not just someone who solves problems, but someone who breathes life into
+      the future. Being a developer isn't just about writing code; it’s about
+      creating purpose, giving meaning to what I build. My love for robotics is
+      more than a passion—it’s about seeing the potential in every piece of
+      metal and wire, in every algorithm and system.
 
 
-      I AM VERY INTRESTED IN CODING ,WEB DEVELOPING AND ALL
+      When I work on robotics, I don’t just assemble parts. I’m building
+      something extraordinary, something that can move, interact, and maybe even
+      change the way we live. It's the blend of logic and creativity that keeps
+      me hooked, constantly pushing the limits of what's possible. I’m not just
+      thinking about what technology can do today, but what it can become
+      tomorrow.
+
+
+      To me, robots aren’t just machines. They’re companions, assistants—perhaps
+      even extensions of ourselves. I dream of a future where the boundaries
+      between the digital and the physical blur, where innovation drives us
+      closer to that reality. I may be working with code and metal, but deep
+      down, I know I’m building something that will impact lives in ways we’re
+      only beginning to imagine.
+
+
+
+
 
 
       ## [@KHR](https://khrpersonal.netlify.app/). Check my BFF's INFO -
