@@ -72,6 +72,7 @@ sections:
       actions:
         justifyContent: flex-start
     type: HeroSection
+    title: A Developer with a Robotic Soul
   - type: DividerSection
     styles:
       self:
