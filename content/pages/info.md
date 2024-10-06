@@ -14,7 +14,7 @@ sections:
     colors: colors-f
     backgroundSize: full
     text: >+
-      **A Developer with a Robotic Soul**
+      ****
 
 
       In the world of endless code and circuits, there's a unique spark—me. I’m
@@ -39,10 +39,6 @@ sections:
       closer to that reality. I may be working with code and metal, but deep
       down, I know I’m building something that will impact lives in ways we’re
       only beginning to imagine.
-
-
-
-
 
 
       ## [@KHR](https://khrpersonal.netlify.app/). Check my BFF's INFO -
